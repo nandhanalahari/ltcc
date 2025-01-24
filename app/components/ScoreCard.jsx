@@ -21,7 +21,7 @@ export function ScoreCard({
             />
             <span className="ml-2 font-semibold">{homeTeam.name}</span>
           </div>
-          <div className="text-xl font-bold">
+          <div className="font-bold">
             {isUpcoming ? "VS" : `${homeTeam.score} - ${awayTeam.score}`}
           </div>
           <div className="flex items-center">

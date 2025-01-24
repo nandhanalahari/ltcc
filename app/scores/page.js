@@ -8,31 +8,31 @@ export default function ScoresPage() {
       homeTeam: {
         name: "LTHS",
         logo: "/lt-logo.png",
-        score: "",
+        score: "104/10",
       },
       awayTeam: {
         name: "RHHS",
         logo: "/rh-logo.png",
-        score: "",
+        score: "105/3",
       },
       date: "December 27, 2024",
       location: "Northeast Community Cricket Ground",
-      isUpcoming: true,
+      isUpcoming: false,
     },
     {
       homeTeam: {
         name: "LTHS",
         logo: "/lt-logo.png",
-        score: "",
+        score: "79/10",
       },
       awayTeam: {
-        name: "TBD",
-        logo: "/placeholder.svg?height=40&width=40",
-        score: "",
+        name: "WGHS",
+        logo: "/wg-logo.jpg",
+        score: "80/4",
       },
-      date: "TBD",
-      location: "TBD",
-      isUpcoming: true,
+      date: "December 30, 2024",
+      location: "Northeast Community Cricket Ground",
+      isUpcoming: false,
     },
     {
       homeTeam: {
