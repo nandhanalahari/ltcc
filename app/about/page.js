@@ -7,32 +7,52 @@ export default function AboutPage() {
     {
       name: "Bharat Vardhan Galla",
       role: "President",
-      image: "/placeholder.svg?height=300&width=300",
+      image: "/bharat.png",
     },
     {
-      name: "tbd",
+      name: "Sushant Kumar Vetapalam",
       role: "Vice President",
-      image: "/placeholder.svg?height=300&width=300",
+      image: "/sushi.png",
     },
     {
-      name: "tbd",
-      role: "GM",
-      image: "/placeholder.svg?height=300&width=300",
+      name: "Tanvesh Tenali",
+      role: "Team Manager 1",
+      image: "/tanvesh.png",
     },
     {
-      name: "tdb",
-      role: "AGM",
-      image: "/placeholder.svg?height=300&width=300",
+      name: "Nanda Gopal Velivala",
+      role: "Team Manager 2",
+      image: "/nanda.png",
     },
     {
-      name: "tbd",
+      name: "Ghanuesh",
+      role: "Graphic designer 1",
+      image: "/guhan.png",
+    },
+    {
+      name: "Daakshinya Konakanchi",
+      role: "Graphic designer 2",
+      image: "/daakshu.png",
+    },
+    {
+      name: "Pankaj",
+      role: "Graphic designer 3",
+      image: "/pankaj.png",
+    },
+    {
+      name: "Chinmay Yalamati",
       role: "Social Media Manager",
-      image: "/placeholder.svg?height=300&width=300",
+      image: "/chinni.png",
     },
     {
-      name: "tbd",
-      role: "Website Manager",
-      image: "/placeholder.svg?height=300&width=300",
+      name: "Sai Suraj Kopparopu",
+      role: "Website Manager 1",
+      image: "/sai.png",
+    },
+    {
+      name: "Chiruhas Nenavath",
+      role: "Website Manager 2",
+      image: "/chiru.png",
     },
   ];
 
