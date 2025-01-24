@@ -25,7 +25,7 @@ export default function AboutPage() {
       image: "/nanda.png",
     },
     {
-      name: "Ghanuesh",
+      name: "Guhanesh",
       role: "Graphic designer 1",
       image: "/guhan.png",
     },
