@@ -38,16 +38,16 @@ export default function ScoresPage() {
       homeTeam: {
         name: "LTHS",
         logo: "/lt-logo.png",
-        score: "",
+        score: "81/10",
       },
       awayTeam: {
         name: "HHS",
         logo: "/heritage.png",
-        score: "",
+        score: "82/8",
       },
       date: "January 25, 2025",
       location: "Northeast Community Cricket Ground",
-      isUpcoming: true,
+      isUpcoming: false,
     },
     {
       homeTeam: {
