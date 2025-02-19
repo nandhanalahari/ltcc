@@ -51,18 +51,33 @@ export default function ScoresPage() {
     },
     {
       homeTeam: {
-        name: "LTHS",
-        logo: "/lt-logo.png",
-        score: "",
+        name: "RHHS",
+        logo: "/rh-logo.png",
+        score: "78/7",
       },
       awayTeam: {
         name: "RHHS",
-        logo: "/rh-logo.png",
-        score: "",
+        logo: "/lt-logo.png",
+        score: "79/6",
       },
-      date: "TBD",
+      date: "February 02, 2025",
       location: "Northeast Community Cricket Ground",
-      isUpcoming: true,
+      isUpcoming: false,
+    },
+    {
+      homeTeam: {
+        name: "LTHS",
+        logo: "/lt-logo.png",
+        score: "108/8",
+      },
+      awayTeam: {
+        name: "WGHS",
+        logo: "/wg-logo.jpg",
+        score: "54/5",
+      },
+      date: "February 15, 2025",
+      location: "Northeast Community Cricket Ground",
+      isUpcoming: false,
     },
   ];
 

@@ -46,13 +46,18 @@ export default function AboutPage() {
     },
     {
       name: "Sai Suraj Kopparopu",
-      role: "Website Manager 1",
+      role: "Website Designer 1",
       image: "/sai.png",
     },
     {
       name: "Chiruhas Nenavath",
-      role: "Website Manager 2",
+      role: "Website Designer 2",
       image: "/chiru.png",
+    },
+    {
+      name: "Nandhan Alahari",
+      role: "Website Developer",
+      image: "/nandhan.png",
     },
   ];
 
